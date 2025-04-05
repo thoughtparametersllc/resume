@@ -1,8 +1,11 @@
 # Jason Lee Miller
+jason.miller@thoughtparameters.com
+
 714-322-8772 · Placentia, CA 92870
-jason.miller@thoughtparameters.com · <a href="https://www.linkedin.com/in/thoughtoperator/">
+
+<a href="https://www.linkedin.com/in/thoughtoperator/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge">
-  </a>
+</a>
 
 ---
 
