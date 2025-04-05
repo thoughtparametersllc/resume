@@ -168,17 +168,95 @@ jason.miller@thoughtparameters.com
 
 **EDUCATION**
 
-**Bachelor of Science | Cyber Security** | DeVry University | Expected: December 2027
-*(Dean’s List - Spring 2024)*
+**Bachelor of Science** - *Computer Information Systems*
+<BR>DeVry University
+<BR>Expected: September 2027
+
+**Certificate** - *Cyber Security*
+<BR>DeVry University
+<BR>Completed: April 2025
 
 ---
 
-**PROFESSIONAL DEVELOPMENT**
+**LICENSES & CERTIFICATIONS**
 
-* Free Salesforce Training and Certification | Intellipaat | Online | 2024
-* Akamai DevOps Training | Akamai Technologies | Online | 2023
-* Puppet Training | Puppet Inc. | Online | 2018
-* LTM Training | F5 Networks | Onsite | 2008
+* Google Cloud Fundamentals: Core Infrastructure
+<BR>Google Cloud
+<BR>Issued Feb 2025
+<BR>Credential ID YZGR30EJ047R
+<BR>[Show Credential](https://www.coursera.org/account/accomplishments/verify/YZGR30EJ047R)
+
+* Essential Google Cloud Infrastructure: Foundation
+<BR>Google Cloud
+<BR>Issued Mar 2025
+<BR>Credential ID LERCVI4P2R6Z
+<BR>[Show Credential](https://www.coursera.org/account/accomplishments/records/LERCVI4P2R6Z)
+
+* SSCP 2021: Asset & Change Management Lifecycles
+<BR>Skillsoft
+<BR>Issued Mar 2025
+<BR>Credential ID 136379303
+<BR>[Show Credential](https://skillsoft.digitalbadges.skillsoft.com/a93be44e-3b6d-475b-8f12-7aa12fd326c0)
+
+* SSCP 2021: Authentication & Trust Architectures
+<BR>Skillsoft
+<BR>Issued Mar 2025
+<BR>Credential ID 136882767
+<BR>[Show Credential](https://skillsoft.digitalbadges.skillsoft.com/704a60ba-cf7f-4d3e-99ee-bdbf5f0b121d)
+
+* SSCP 2021: Basic Security Concepts
+<BR>Skillsoft
+<BR>Issued Mar 2025
+<BR>Credential ID 136342917
+<BR>[Show Credential](https://skillsoft.digitalbadges.skillsoft.com/1a392daa-00df-47a4-ba16-db7b049bf215)
+
+* SSCP 2021: Business Continuity Planning 
+<BR>Skillsoft
+<BR>Issued Mar 2025
+<BR>Credential ID 137942479
+<BR>[Show Credential](https://skillsoft.digitalbadges.skillsoft.com/67deda7e-7a1f-4d10-9a7a-d5f1ec8f4dd5)
+
+* SSCP 2021: Identity Management & Access Control Models
+<BR>Skillsoft
+<BR>Issued Mar 2025
+<BR>Credential ID 136944383
+<BR>[Show Credential](https://skillsoft.digitalbadges.skillsoft.com/dddf118f-2a70-4056-b67e-4be7f8920e74)
+
+* SSCP 2021: Incident Response & Forensics
+<BR>Skillsoft
+<BR>Issued Mar 2025
+<BR>Credential ID 137805745
+<BR>[Show Credential](https://skillsoft.digitalbadges.skillsoft.com/9239a4f3-247f-4e51-a9bd-c2f1f6e4e350)
+
+* SSCP 2021: Physical Security Operations
+<BR>Skillsoft
+<BR>Issued Mar 2025
+<BR>Credential ID 136380575
+<BR>[Show Credential](https://skillsoft.digitalbadges.skillsoft.com/449afd64-44f0-4d1a-874f-8c0945e73476)
+
+* SSCP 2021: Risk Management
+<BR>Skillsoft
+<BR>Issued Mar 2025
+<BR>Credential ID 137306527
+<BR>[Show Credential](https://skillsoft.digitalbadges.skillsoft.com/21f2d066-5a44-4e79-ba0f-6142868714d2)
+
+* SSCP 2021: Security & Vulnerability Assessment
+<BR>Skillsoft
+<BR>Issued Mar 2025
+<BR>Credential ID 137715866
+<BR>[Show Credential](https://skillsoft.digitalbadges.skillsoft.com/5aaa051b-0e8a-42f4-863b-b0d5cb44ea98)
+
+* SSCP 2021: Security Controls
+<BR>Skillsoft
+<BR>Issued Mar 2025
+<BR>Credential ID 136344265
+<BR>[Show Credential](https://skillsoft.digitalbadges.skillsoft.com/c48552f2-9604-4488-9c42-cd6cfb04257a)
+
+* SSCP 2021: Understanding & Applying Cryptography
+<BR>Skillsoft
+<BR>Issued Mar 2025
+<BR>Credential ID 138565978
+<BR>[Show Credential](https://skillsoft.digitalbadges.skillsoft.com/74a359cc-21fa-4ae5-85f1-a6f492407a3f)
 
 ---
 
@@ -191,5 +269,7 @@ jason.miller@thoughtparameters.com
 **AWARDS & RECOGNITION**
 
 * Spring 2024, Dean’s List - DeVry University
+* Fall 2024, Dean’s List - DeVry University
+
 
 ---
