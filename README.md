@@ -60,6 +60,7 @@ jason.miller@thoughtparameters.com
 **PROFESSIONAL EXPERIENCE**
 
 **Thought Parameters LLC** | Owner / CEO | Placentia, CA | Jun 2024 – Present
+
 *Optimizing project strategies, fostering collaborative environments, and setting clear, measurable goals to drive success. Skilled in deploying cutting-edge IT solutions that enhance efficiency, empower teams to excel, and ensure alignment with the company’s vision and goals.*
 
 * Engineered FastAPI-based applications for an open-source project, orchestrating certificate authority functionalities and optimizing cryptographic management processes.
@@ -70,6 +71,7 @@ jason.miller@thoughtparameters.com
 * Unearthed valuable insights from market research, applying findings to refine software development processes and consulting practices.
 
 **JL Miller Electric, Inc.** | IT Engineer | Placentia, CA | May 2023 – Present
+
 *Refining development workflows, nurturing team dynamics, and setting transparent benchmarks to drive peak performance. Expert in implementing innovative solutions that streamline processes and empower teams to achieve fullest potential, ensuring alignment with organizational objectives.*
 
 * Drafted comprehensive technical documentation in Confluence, elucidating intricate concepts and procedures; crafted presentations to disseminate information across the team.
@@ -81,6 +83,7 @@ jason.miller@thoughtparameters.com
 * Engaged in configuring Jenkins jobs for Python projects, setting up steps for building packages, creating Docker containers, executing pytest, and performing lint checks.
 
 **David’s Bridal Inc.** | DevOps Engineer | Conshohocken, PA | Jan 2022 – Apr 2023
+
 *Served as a senior team member, mentoring junior colleagues. Supported and managed multi-account AWS organization, ensuring performance, user management, and infrastructure availability.*
 
 * Executed cost optimization strategies across AWS, New Relic, and Splunk Cloud, resulting in savings exceeding $10,000.
@@ -95,6 +98,7 @@ jason.miller@thoughtparameters.com
 * Automated the setup of GCP infrastructure for third-party inventory control solutions using Terraform, improving reliability and speed.
 
 **Fidelity Life Association** | DevOps Engineer | Chicago, IL | Jan 2015 – Dec 2021
+
 *Automated CI/CD pipelines for .Net (C#), NodeJS, and Ruby. Revamped processes to enhance efficiency and productivity.*
 
 * Instituted Puppet Enterprise infrastructure with per-module CI/CD pipelines and employed r10k for module version control across environments, bolstering reliability.
@@ -107,6 +111,7 @@ jason.miller@thoughtparameters.com
 * Administered, configured, troubleshot, and automated deployments on Linux and Windows systems using Octopus Deploy and MCollective.
 
 **Alma** | DevOps Engineer | Portland, OR | Oct 2014 – Jan 2015
+
 *Hired on a short-term contract to automate and scale application infrastructure within a limited budget, exceeding expectations.*
 
 * Flew to Portland, OR to collaborate with the project team and met with Washington, D.C. representatives to understand business objectives related to educational software.
@@ -115,6 +120,7 @@ jason.miller@thoughtparameters.com
 * Reverse-engineered and refactored a complex monolithic bash script into service-specific instances, increasing application capacity by over 100%.
 
 **Heartflow, Inc.** | DevOps Engineer | Redwood City, CA | Jul 2014 – Sept 2014
+
 *Maintained strict adherence to FDA and HIPAA standards, implemented 802.1x authentication, and improved deployment models.*
 
 * Completed company-mandated HIPAA training, ensuring full compliance with regulatory requirements.
@@ -123,6 +129,7 @@ jason.miller@thoughtparameters.com
 * Assessed various technologies for improving the speed of algorithms generating 3D heart images.
 
 **Workday, Inc.** | Infrastructure Engineering | Pleasanton, CA | Nov 2012 – Jun 2014
+
 *Galvanized the Infrastructure Engineering team, optimizing Workday application environments globally and implementing services for compliance and regulatory automation.*
 
 * Rectified performance bottlenecks in production Linux environments caused by network traffic and application inefficiencies.
@@ -131,6 +138,7 @@ jason.miller@thoughtparameters.com
 * Assisted in building infrastructure services like GlusterFS, incorporating remote file synchronization and coaching team members on stakeholder approvals.
 
 **Apple, Inc.** | System Engineer | Cupertino, CA | Jul 2011 – Nov 2012
+
 *Deployed critical services and implemented infrastructure solutions supporting organizational objectives and innovation.*
 
 * Crafted a specialized Gentoo Portage version for building engineering toolchains, improving build consistency for Hardware Engineering teams.
@@ -139,6 +147,7 @@ jason.miller@thoughtparameters.com
 * Supported a large engineering team (>4000 users), troubleshooting CAD/simulation licenses, toolchain issues, system performance, and Puppet code defects.
 
 **Netflix, Inc.** | System Engineer | Los Gatos, CA | Feb 2011 – Jul 2012
+
 *Joined Corporate IT, moved to Qwikster System Engineering, built DVD infrastructure, and automated servers using Puppet.*
 
 * Handled a high volume of ServiceNow tickets in a large corporate IT environment (>2000 physical servers), earning recognition for effective problem resolution.
@@ -147,6 +156,7 @@ jason.miller@thoughtparameters.com
 * Migrated Jenkins build infrastructure seamlessly from Netflix to Qwikster for the DVD division.
 
 **iControl, Inc.** | System Engineer | Redwood City, CA | Jan 2008 – Feb 2011
+
 *Collaborated with integration partners, configured demo environments (Cisco), and managed diverse technical challenges in a fast-paced startup.*
 
 * Assembled iRules (F5) and A10 scripts for load balancers, writing comprehensive implementation guides to reduce customer setup times.
